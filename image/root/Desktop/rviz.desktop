@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=RViz2
+Comment=RViz2
+Exec=bash -c "source /opt/ros/ardent/setup.bash&& ros2 run rviz2 rviz2"
+Icon=/opt/ros/ardent/share/rqt_gui/resource/rqt.png
+Type=Application
+Categories=GNOME;GTK;Utility;TerminalEmulator;System;
+StartupNotify=true
+Keywords=terminal;shell;prompt;command;commandline;
