@@ -8,4 +8,4 @@ docker pull beandrewang/vnc-ros2-desktop:ardent
 docker run -it --rm -p 6080:80 beandrewang/vnc-ros2-desktop:ardent
 ```
 
-![](https://github.com/beandrewang/docker-vnc-ros2-desktop/blob/master/screenshot/ardent-desktop.png)
+![](https://github.com/beandrewang/docker-vnc-ros2-desktop/blob/master/ardent/screenshot/ardent-desktop.png)
